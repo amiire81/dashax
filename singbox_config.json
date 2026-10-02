@@ -72,25 +72,6 @@
         "path": "/vl/524S2SPAeQGmKV9rViHNJxwf90kh2Srr?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -132,25 +113,6 @@
         "path": "/vl/524S2SPAeQGmKV9rViHNJxwf90kh2Srr?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -192,25 +154,6 @@
         "path": "/vl/524S2SPAeQGmKV9rViHNJxwf90kh2Srr?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -252,25 +195,6 @@
         "path": "/vl/524S2SPAeQGmKV9rViHNJxwf90kh2Srr?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -312,25 +236,6 @@
         "path": "/vl/524S2SPAeQGmKV9rViHNJxwf90kh2Srr?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -372,25 +277,6 @@
         "path": "/vl/524S2SPAeQGmKV9rViHNJxwf90kh2Srr?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -432,25 +318,6 @@
         "path": "/vl/cZ1bx9Iak0hKw4J21J9dyMXjqXvv7j6y?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -492,25 +359,6 @@
         "path": "/vl/cZ1bx9Iak0hKw4J21J9dyMXjqXvv7j6y?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -552,25 +400,6 @@
         "path": "/vl/cZ1bx9Iak0hKw4J21J9dyMXjqXvv7j6y?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -612,25 +441,6 @@
         "path": "/vl/cZ1bx9Iak0hKw4J21J9dyMXjqXvv7j6y?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -672,25 +482,6 @@
         "path": "/vl/cZ1bx9Iak0hKw4J21J9dyMXjqXvv7j6y?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -732,25 +523,6 @@
         "path": "/vl/cZ1bx9Iak0hKw4J21J9dyMXjqXvv7j6y?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -792,25 +564,6 @@
         "path": "/vl/I4hcE7aEKnbbeM3mWe8YMOAeKWr7?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -852,25 +605,6 @@
         "path": "/vl/I4hcE7aEKnbbeM3mWe8YMOAeKWr7?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -912,25 +646,6 @@
         "path": "/vl/I4hcE7aEKnbbeM3mWe8YMOAeKWr7?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -972,25 +687,6 @@
         "path": "/vl/I4hcE7aEKnbbeM3mWe8YMOAeKWr7?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1032,25 +728,6 @@
         "path": "/vl/I4hcE7aEKnbbeM3mWe8YMOAeKWr7?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1092,25 +769,6 @@
         "path": "/vl/I4hcE7aEKnbbeM3mWe8YMOAeKWr7?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1152,25 +810,6 @@
         "path": "/vl/JcjTuLnns9dI4vP4hFF76f0WHda7?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1212,25 +851,6 @@
         "path": "/vl/JcjTuLnns9dI4vP4hFF76f0WHda7?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1272,25 +892,6 @@
         "path": "/vl/JcjTuLnns9dI4vP4hFF76f0WHda7?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1332,25 +933,6 @@
         "path": "/vl/JcjTuLnns9dI4vP4hFF76f0WHda7?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1392,25 +974,6 @@
         "path": "/vl/JcjTuLnns9dI4vP4hFF76f0WHda7?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1452,25 +1015,6 @@
         "path": "/vl/JcjTuLnns9dI4vP4hFF76f0WHda7?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1512,25 +1056,6 @@
         "path": "/tr/TRK3YajwW42WCsjJFxDY54vM4Oylm2?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1572,25 +1097,6 @@
         "path": "/tr/TRK3YajwW42WCsjJFxDY54vM4Oylm2?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1632,25 +1138,6 @@
         "path": "/tr/TRK3YajwW42WCsjJFxDY54vM4Oylm2?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1692,25 +1179,6 @@
         "path": "/tr/TRK3YajwW42WCsjJFxDY54vM4Oylm2?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1752,25 +1220,6 @@
         "path": "/tr/TRK3YajwW42WCsjJFxDY54vM4Oylm2?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1812,25 +1261,6 @@
         "path": "/tr/TRK3YajwW42WCsjJFxDY54vM4Oylm2?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1872,25 +1302,6 @@
         "path": "/tr/m8DI1okbPsoAIcvlCnt5lhqRX?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1932,25 +1343,6 @@
         "path": "/tr/m8DI1okbPsoAIcvlCnt5lhqRX?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -1992,25 +1384,6 @@
         "path": "/tr/m8DI1okbPsoAIcvlCnt5lhqRX?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2052,25 +1425,6 @@
         "path": "/tr/m8DI1okbPsoAIcvlCnt5lhqRX?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2112,25 +1466,6 @@
         "path": "/tr/m8DI1okbPsoAIcvlCnt5lhqRX?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2172,25 +1507,6 @@
         "path": "/tr/m8DI1okbPsoAIcvlCnt5lhqRX?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2232,25 +1548,6 @@
         "path": "/tr/VNJOveJjmkjRb2nCQOFn6CWfP5v?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2292,25 +1589,6 @@
         "path": "/tr/VNJOveJjmkjRb2nCQOFn6CWfP5v?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2352,25 +1630,6 @@
         "path": "/tr/VNJOveJjmkjRb2nCQOFn6CWfP5v?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2412,25 +1671,6 @@
         "path": "/tr/VNJOveJjmkjRb2nCQOFn6CWfP5v?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2472,25 +1712,6 @@
         "path": "/tr/VNJOveJjmkjRb2nCQOFn6CWfP5v?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2532,25 +1753,6 @@
         "path": "/tr/VNJOveJjmkjRb2nCQOFn6CWfP5v?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2592,25 +1794,6 @@
         "path": "/tr/F3Uosso9cMte79UiSBNeDeQA?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2652,25 +1835,6 @@
         "path": "/tr/F3Uosso9cMte79UiSBNeDeQA?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2712,25 +1876,6 @@
         "path": "/tr/F3Uosso9cMte79UiSBNeDeQA?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2772,25 +1917,6 @@
         "path": "/tr/F3Uosso9cMte79UiSBNeDeQA?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2832,25 +1958,6 @@
         "path": "/tr/F3Uosso9cMte79UiSBNeDeQA?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
@@ -2892,25 +1999,6 @@
         "path": "/tr/F3Uosso9cMte79UiSBNeDeQA?ed=2560",
         "headers": {
           "Host": "1zqw0rt-pg3flpza3c01g4.amirrezaesmailzadeh2017.workers.dev"
-        },
-        "fragment": {
-          "enabled": true,
-          "packets": [
-            "tlshello",
-            "1-1"
-          ],
-          "lengths": [
-            "0",
-            "104",
-            "1",
-            "114",
-            "1"
-          ],
-          "delays": [
-            "0",
-            "1"
-          ],
-          "max_split": 11
         }
       }
     },
