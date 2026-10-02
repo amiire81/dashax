@@ -3106,19 +3106,22 @@
         "outbound": "🔀 Selector"
       }
     ],
-    "auto_detect_interface": true
+    "auto_detect_interface": true,
+    "final": "🔀 Selector"
   },
   "dns": {
     "servers": [
       {
         "tag": "google",
         "address": "https://dns.google/dns-query",
-        "strategy": "ipv4_first"
+        "strategy": "ipv4_first",
+        "detour": "🔀 Selector"
       },
       {
         "tag": "cloudflare",
         "address": "https://cloudflare-dns.com/dns-query",
-        "strategy": "ipv4_first"
+        "strategy": "ipv4_first",
+        "detour": "🔀 Selector"
       }
     ],
     "rules": [
@@ -3127,6 +3130,7 @@
         "server": "google"
       }
     ],
-    "strategy": "ipv4_first"
+    "strategy": "ipv4_first",
+    "final": "google"
   }
 }
