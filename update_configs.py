@@ -18,10 +18,6 @@ def rename_uri(uri, new_name="خیار🥒"):
     except Exception:
         return uri
 
-def rename_all(links):
-    """Rename all URIs in a list"""
-    return [rename_uri(link) for link in links]
-
 def json_to_uri(config, new_name="خیار🥒"):
     outbound = None
     for ob in config.get('outbounds', []):
@@ -226,65 +222,90 @@ def whitedns_to_uri(proxy, new_name="خیار🥒"):
     return None
 
 def fetch_bpb_normal():
-    url = "https://vsix6rg3eolucr0ywl9sc5pkdwnpw55m.pages.dev/1XsTsfMUcBuMc3/sub/normal?app=xray"
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    data = json.loads(urllib.request.urlopen(req, timeout=30).read().decode('utf-8'))
-    links = []
-    for config in data:
-        uri = json_to_uri(config)
-        if uri:
-            links.append(uri)
-    return links
+    try:
+        url = "https://vsix6rg3eolucr0ywl9sc5pkdwnpw55m.pages.dev/1XsTsfMUcBuMc3/sub/normal?app=xray"
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        data = json.loads(urllib.request.urlopen(req, timeout=30).read().decode('utf-8'))
+        links = []
+        for config in data:
+            uri = json_to_uri(config)
+            if uri:
+                links.append(uri)
+        print(f"  BPB Normal: {len(links)} configs")
+        return links
+    except Exception as e:
+        print(f"  BPB Normal ERROR: {e}")
+        return []
 
 def fetch_twilight_hill():
-    url = "https://twilight-hill-438b.gotvaram.workers.dev/sync?sub=Masuma"
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    b64 = urllib.request.urlopen(req, timeout=30).read().decode('utf-8')
-    decoded = base64.b64decode(b64).decode('utf-8')
-    links = [line.strip() for line in decoded.strip().split('\n') if line.strip()]
-    return links  # Will be renamed later
+    try:
+        url = "https://twilight-hill-438b.gotvaram.workers.dev/sync?sub=Masuma"
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        b64 = urllib.request.urlopen(req, timeout=30).read().decode('utf-8')
+        decoded = base64.b64decode(b64).decode('utf-8')
+        links = [line.strip() for line in decoded.strip().split('\n') if line.strip()]
+        print(f"  Twilight Hill: {len(links)} configs")
+        return links
+    except Exception as e:
+        print(f"  Twilight Hill ERROR: {e}")
+        return []
 
 def fetch_blueknight():
-    url = "https://raw.githubusercontent.com/BlueKnightNet/blueknight_net-sub-link/refs/heads/blue-knight-net/BlueKnight.txt"
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    text = urllib.request.urlopen(req, timeout=30).read().decode('utf-8')
-    links = [line.strip() for line in text.strip().split('\n') if line.strip()]
-    return links  # Will be renamed later
+    try:
+        url = "https://raw.githubusercontent.com/BlueKnightNet/blueknight_net-sub-link/refs/heads/blue-knight-net/BlueKnight.txt"
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        text = urllib.request.urlopen(req, timeout=30).read().decode('utf-8')
+        links = [line.strip() for line in text.strip().split('\n') if line.strip()]
+        print(f"  BlueKnight: {len(links)} configs")
+        return links
+    except Exception as e:
+        print(f"  BlueKnight ERROR: {e}")
+        return []
 
 def fetch_whitedns():
-    url = "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/mihomo.yaml"
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    text = urllib.request.urlopen(req, timeout=30).read().decode('utf-8')
-    yaml_data = yaml.safe_load(text)
-    links = []
-    for proxy in yaml_data.get('proxies', []):
-        uri = whitedns_to_uri(proxy)
-        if uri:
-            links.append(uri)
-    return links
+    try:
+        url = "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/mihomo.yaml"
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        text = urllib.request.urlopen(req, timeout=30).read().decode('utf-8')
+        yaml_data = yaml.safe_load(text)
+        links = []
+        for proxy in yaml_data.get('proxies', []):
+            uri = whitedns_to_uri(proxy)
+            if uri:
+                links.append(uri)
+        print(f"  WhiteDNS: {len(links)} configs")
+        return links
+    except Exception as e:
+        print(f"  WhiteDNS ERROR: {e}")
+        return []
 
 def fetch_freedom_house():
-    url = "https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/free-mihomo-sub/freedom_house_countries__NoRule.yaml"
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    text = urllib.request.urlopen(req, timeout=30).read().decode('utf-8')
-    freedom_yaml = yaml.safe_load(text)
-    
-    links = []
-    providers = freedom_yaml.get('proxy-providers', {})
-    for name, provider in providers.items():
-        url = provider.get('url', '')
-        if url:
-            try:
-                req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-                content = urllib.request.urlopen(req, timeout=30).read().decode('utf-8')
-                provider_yaml = yaml.safe_load(content)
-                for proxy in provider_yaml.get('proxies', []):
-                    uri = whitedns_to_uri(proxy)
-                    if uri:
-                        links.append(uri)
-            except Exception as e:
-                print(f"Error fetching {name}: {e}")
-    return links
+    try:
+        url = "https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/free-mihomo-sub/freedom_house_countries__NoRule.yaml"
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        text = urllib.request.urlopen(req, timeout=30).read().decode('utf-8')
+        freedom_yaml = yaml.safe_load(text)
+        
+        links = []
+        providers = freedom_yaml.get('proxy-providers', {})
+        for name, provider in providers.items():
+            url = provider.get('url', '')
+            if url:
+                try:
+                    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+                    content = urllib.request.urlopen(req, timeout=30).read().decode('utf-8')
+                    provider_yaml = yaml.safe_load(content)
+                    for proxy in provider_yaml.get('proxies', []):
+                        uri = whitedns_to_uri(proxy)
+                        if uri:
+                            links.append(uri)
+                except Exception as e:
+                    print(f"    Error fetching provider {name}: {e}")
+        print(f"  Freedom House: {len(links)} configs")
+        return links
+    except Exception as e:
+        print(f"  Freedom House ERROR: {e}")
+        return []
 
 def main():
     all_links = []
